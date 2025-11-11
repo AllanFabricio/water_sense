@@ -1,0 +1,23 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Dados brutos e processados
+data/raw/
+data/data/raw/
+data/processed/
+*.parquet
+*.csv
+
+# Arquivos temporários
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoint/
+
+# Configurações locais VS Code
+.vscode/
