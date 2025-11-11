@@ -1,0 +1,19 @@
+water_sense/
+├─ .venv/                      # ambiente virtual
+├─ data/
+│  ├─ raw/
+│  │  ├─ INMET_NE_SE_A409_ARACAJU_01-01-2018_A_31-12-2018.CSV
+│  │  └─ nov18-praias-21-11-18.pdf
+│  └─ processed/
+├─ notebooks/
+│  └─ 01_exploracao_eda.ipynb
+├─ src/
+│  ├─ data_ingest.py
+│  ├─ parse_adema_pdf.py
+│  ├─ preprocess.py
+│  ├─ features.py
+│  └─ modeling.py
+├─ models/
+├─ reports/
+├─ requirements.txt
+└─ README.md
