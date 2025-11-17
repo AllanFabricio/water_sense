@@ -45,14 +45,6 @@ A meta é estabelecer uma base estruturada que permita desenvolver **modelos pre
 
 ---
 
-## 📈 Próximos Passos
-
-- Correlação estatística entre precipitação e índices de contaminação
-- Modelos de regressão e classificação (previsão de balneabilidade)
-- Dashboard interativo com Streamlit ou Plotly Dash
-
----
-
 ## 👨‍💻 Autor
 
 **Allan Fabrício**  
